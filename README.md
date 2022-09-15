@@ -1,54 +1,25 @@
-[![Releases](https://img.shields.io/github/release/Telegram-FOSS-Team/Telegram-FOSS.svg)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS/releases/latest)
-[![Discussions](https://img.shields.io/badge/Offtopics-Telegram-blue.svg)](https://t.me/tfossofftop)
+[![Releases](https://img.shields.io/github/release/Telegram-FOSS-Team/Telegram-FOSS.svg)](https://github.com/phoebethetransgirl/Telegram-FOSS-Miku//releases/latest)
+# Click the Miku to join the Telegram Chat <3
+[![Discussions](https://en.datosjam.net.pe/wp-content/uploads/2021/12/Twitter-artists-celebrated-the-second-Hatsune-Miku-Day.jpg)](https://t.me/mikugram)
 
-[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Telegram-FOSS/) or <img src="https://en.bitcoin.it/w/images/en/c/cb/BC_Logotype.png" alt="Bitcoin" height="25px" /> `1P8kNcifVAkBWtWmjKY4RvVLy5QwruE2LQ`
+[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://en.liberapay.com/mikugram/) or <img src="https://en.bitcoin.it/w/images/en/c/cb/BC_Logotype.png" alt="Bitcoin" height="25px" /> `3D64vKKrTZzsS9LDu8GBfN4gHyfuWHVrDb`
 
-# Telegram-FOSS
+# Telegram-FOSS-Miku
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 
 This is an unofficial, FOSS-friendly fork of the original [Telegram App for Android](https://github.com/DrKLO/Telegram).
 
-This version of Telegram is available on FDroid:
-
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/org.telegram.messenger)
-
 ## Current Maintainers
 
-- [thermatk](https://github.com/thermatk)
-- you? :)
-
-## Contributors
-
-- [slp](https://github.com/slp)
-- [Bubu](https://github.com/Bubu)
-- [Sudokamikaze](https://github.com/Sudokamikaze)
-- [l2dy](https://github.com/l2dy)
-- [maximgrafin](https://github.com/maximgrafin)
-- [vn971](https://github.com/vn971)
-- [theel0ja](https://github.com/theel0ja)
-- [AnXh3L0](https://github.com/AnXh3L0)
-- [noplanman](https://github.com/noplanman)
-- [vk496](https://github.com/vk496)
-- [verdulo](https://github.com/verdulo)
-- [anupritaisno1](https://github.com/anupritaisno1)
-- [nekohasekai](https://github.com/nekohasekai)
-- [kdrag0n](https://github.com/kdrag0n)
-- [terachad](https://github.com/terachad)
-- [ppnplus](https://github.com/ppnplus)
-- [luvletter2333](https://github.com/luvletter2333)
-- [23rd](https://github.com/23rd)
-- [proletarius101](https://github.com/proletarius101)
-- [CWJamieson](https://github.com/CWJamieson)
-- [verdulo](https://github.com/verdulo)
+- [phoebethetransgirl](https://github.com/phoebethetransgirl)
+- [sprungles](https://github.com/sprungles)
 
 ## Discussion
 
-Join the [Telegram-FOSS Offtopics group](https://t.me/tfossofftop)
+Join the [Telegram-FOSS-Miku group](https://t.me/mikugram)
 
-You can also join `#telegram-foss:matrix.org` via [matrix](https://matrix.to/#/#telegram-foss:matrix.org) or `#telegram-foss` on freenode.
+You can also join `#mikugram:the-apothecary.club` via [matrix](https://matrix.to/#/#mikugram:the-apothecary.club)
 
 ## Changes:
 
